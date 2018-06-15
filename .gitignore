@@ -1,0 +1,7 @@
+# Node.js folders
+/node_modules/
+/dist/
+
+# OS generated files and folders
+.DS_Store
+npm-debug.log
